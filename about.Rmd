@@ -1,5 +1,8 @@
 ---
 title: "About This Website"
+date: "2019/05/31"
+output: html_document
+categories: R
 ---
 
 because the virus is out of control, I feel very boring. It's time to think about some ideas I had before.  

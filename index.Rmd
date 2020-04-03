@@ -1,5 +1,8 @@
 ---
 title: "My Website"
+date: "2019/05/31"
+output: html_document
+categories: R
 ---
 
 Hello, Website!
