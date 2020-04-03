@@ -1,8 +1,0 @@
-name: "程柯仁"
-navbar:
-  title: "半亩方塘"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
